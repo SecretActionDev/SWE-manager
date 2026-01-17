@@ -1,0 +1,11 @@
+ pip install -e .  in the "SWE-Manger/SWE-Manager" directory
+
+swe-manager run --instance_id pandas-dev__pandas-12345
+
+Python: 3.12.12 (main, Oct 10 2025, 08:52:57) [GCC 11.4.0]
+Platform: Linux-6.6.105+-x86_64-with-glibc2.35
+numpy: 2.0.2
+numba: 0.60.0
+umap: 0.5.9.post2
+sklearn: 1.6.1
+joblib: 1.5.3
